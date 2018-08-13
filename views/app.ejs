@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<% include header.ejs %>
+
+	<body>
+		<% include navbar.ejs %>
+
+			<div class="container app">
+				<% if (!user) { %>
+					<h3>Bienvenido!</h3>
+					<div class="leader">
+						Debe
+						<a href="/login">loguearse</a> con su cuenta de facebook para publicar.
+					</div>
+					<% } else { %>
+						<div id="root"></div>
+						<% } %>
+			</div>
+
+			<% include footer.ejs %>
+	</body>
+
+</html>

@@ -1,0 +1,7 @@
+{
+  "appId": "",
+  "appSecret": "",
+  "sessionSecret": "Keyboard Cat",
+  "callbackURL": "https://127.0.0.1:8888/login/facebook/callback",
+  "scheduler_timezone": "America/Argentina/Buenos_Aires"
+}
