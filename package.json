@@ -22,7 +22,7 @@
     "jquery": "^3.5.0",
     "moment": "^2.22.2",
     "mongoose": "^5.7.5",
-    "morgan": "^1.6.1",
+    "morgan": "^1.9.1",
     "passport": "^0.2.2",
     "passport-facebook": "^2.0.0",
     "path": "^0.12.7",
