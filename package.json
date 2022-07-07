@@ -20,7 +20,7 @@
     "express-session": "^1.11.3",
     "fb": "^2.0.0",
     "jquery": "^3.5.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "passport": "^0.2.2",
